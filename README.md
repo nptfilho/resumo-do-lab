@@ -1,2 +1,2 @@
 # resumo-do-lab
-ste repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+As iniciais foram bem interessantes e aprendi os conceitos básicos sobre nuvem, portal Azure e sobre alguns recursos que iremos conhecer mais para frente.
